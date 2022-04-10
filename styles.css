@@ -1,0 +1,9 @@
+#itemsSold{
+    color: green;
+}
+#itemsBought{
+    color: blue;
+}
+#itemsLeftToSell{
+    color: red;
+}
